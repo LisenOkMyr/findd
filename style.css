@@ -1,0 +1,117 @@
+.sunsistem {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#kapysta {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 734px 0 0 969px;
+
+}
+
+#kykyryza {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 970px 0 0 690px;
+}
+
+#tukva {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 987px 0 0 1300px;}
+
+	
+#xren {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 686px 0 0 285px;
+}
+
+#selderei {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 801px 0 0 503px;
+}
+
+#patisson {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 689px 0 0 1260px;
+}
+#petryshka {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 899px 0 0 468px;
+}
+
+#avakado {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 798px 0 0 1084px;
+}
+#brokolli {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 822px 0 0 651px;
+}
+
+#brykva {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 811px 0 0 852px;
+}
+
+#facol {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 992px 0 0 63px;
+}
+
+#gorox {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 784px 0 0 159px;
+}
+#kartofel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 715px 0 0 477px;
+}
+#morkov {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 956px 0 0 1090px;
+}
+#pasternak{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 706px 0 0 6px;
+}
+
+#message {
+    position: absolute;
+    font-family: "Times New Roman", Times, serif;
+    background-color: black;
+    color: white;
+    font-size: 20pt;	
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 320px;
+}
